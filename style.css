@@ -1,0 +1,7 @@
+table, tr, td {
+	border: 2px solid grey;
+}
+span {
+    padding-left: 40px;
+	font-style: italic;
+}
